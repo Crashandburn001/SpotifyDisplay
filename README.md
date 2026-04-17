@@ -1,4 +1,4 @@
-<img width="883" height="663" alt="image" src="https://github.com/user-attachments/assets/5867f4ca-22b1-4094-b4c9-789bedc632c7" /># SpotifyDisplay
+# SpotifyDisplay
 
 Onshape: https://cad.onshape.com/documents/da9b9b53d32e41f0fc0b81f2/w/40189cf8ab7f4d18fe58df24/e/e03f0b3a967e7bc554a7f9eb
 
