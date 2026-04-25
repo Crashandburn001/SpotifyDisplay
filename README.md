@@ -7,11 +7,11 @@ I made this project to allow easy control of my music while working and also as 
 
 CAD Model:
 
-<img width="3296" height="2547" alt="SpotifyDisplayMastrMaster" src="https://github.com/user-attachments/assets/b8cda3b0-9227-4a42-b57c-302b9da9f315" />
+<img width="1648" height="1273.5" alt="SpotifyDisplayMastrMaster" src="https://github.com/user-attachments/assets/b8cda3b0-9227-4a42-b57c-302b9da9f315" />
 
 Wiring Diagram:
 
-<img width="883" height="663" alt="image" src="https://github.com/user-attachments/assets/dabbf4fa-9f3b-4afa-be66-a415db14af0e" />
+<img width="441.5" height="331.5" alt="image" src="https://github.com/user-attachments/assets/dabbf4fa-9f3b-4afa-be66-a415db14af0e" />
 
 ## BOM:
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
