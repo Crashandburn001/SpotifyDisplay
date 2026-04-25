@@ -8,6 +8,7 @@ I made this project to allow easy control of my music while working and also as 
 ## CAD Renders:
 <img width="480" height="270" alt="MediumRender" src="https://github.com/user-attachments/assets/b5ca993b-26d7-4c1b-b48f-4baba24d0216" />
 
+
 <img width="480" height="270" alt="CloseupRender" src="https://github.com/user-attachments/assets/e744e5ce-f9fa-49b1-a0bc-0ff603b29329" />
 
 ## Wiring Diagram:
