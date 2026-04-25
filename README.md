@@ -2,7 +2,9 @@
 ### Quick Links:
 | Name | Link |
 |:---|:---|
-Onshape (CAD) | [CAD Link](https://cad.onshape.com/documents/da9b9b53d32e41f0fc0b81f2/w/40189cf8ab7f4d18fe58df24/e/e03f0b3a967e7bc554a7f9eb)
+| Onshape (CAD) | [CAD Link](https://cad.onshape.com/documents/da9b9b53d32e41f0fc0b81f2/w/40189cf8ab7f4d18fe58df24/e/e03f0b3a967e7bc554a7f9eb) |
+| Spotify API for ESP32 | [Link](https://github.com/FinianLandes/SpotifyEsp32) |
+
 
 ### Description
 
