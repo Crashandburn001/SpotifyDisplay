@@ -5,11 +5,12 @@ Onshape: https://cad.onshape.com/documents/da9b9b53d32e41f0fc0b81f2/w/40189cf8ab
 This is a spotify display, which uses an ESP32 C3 dev board to display the currently playing track. It interfaces with the spotify Developer API to allow users to control their music (play/pause, forward/back, volume). 
 I made this project to allow easy control of my music while working and also as a cool thing to sit on my desk :D.
 
-CAD Model:
+## CAD Renders:
+<img width="480" height="270" alt="MediumRender" src="https://github.com/user-attachments/assets/b5ca993b-26d7-4c1b-b48f-4baba24d0216" />
 
-<img width="1648" height="1273.5" alt="SpotifyDisplayMastrMaster" src="https://github.com/user-attachments/assets/b8cda3b0-9227-4a42-b57c-302b9da9f315" />
+<img width="480" height="270" alt="CloseupRender" src="https://github.com/user-attachments/assets/e744e5ce-f9fa-49b1-a0bc-0ff603b29329" />
 
-Wiring Diagram:
+## Wiring Diagram:
 
 <img width="441.5" height="331.5" alt="image" src="https://github.com/user-attachments/assets/dabbf4fa-9f3b-4afa-be66-a415db14af0e" />
 
